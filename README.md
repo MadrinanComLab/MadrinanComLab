@@ -16,20 +16,12 @@ Here are the technologies that I use:
   <img src="https://user-images.githubusercontent.com/74145874/175009331-7b9a4a89-536f-41d3-aab7-1a41f9d6c6b9.png" width="100px" height="100px" alt="PHP"/>
 </p>
 
-Backend Frameworks that I use:
+Backend Frameworks that I use:                  Databases that I use:
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/74145874/175010858-5d4edd52-94c5-47ac-b4ef-855e510d1664.png" width="100px" height="100px" alt="Flask"/>
   <img src="https://user-images.githubusercontent.com/74145874/175009740-4fbba538-e15d-4636-a20c-353094e31b71.png" width="100px" height="100px" alt="Express JS"/>
   <img src="https://user-images.githubusercontent.com/74145874/175010397-a7ca0170-ca28-4dda-be61-9c8202c3e5e9.png" width="100px" height="100px" alt="Laravel"/>
- </p>
- 
- Databases that I use:
-
-<p float="left">
   <img src="https://user-images.githubusercontent.com/74145874/175011980-24a45f00-c1a7-40c6-a5d6-d39912a08d71.png" width="100px" height="100px" alt="MySQL"/>
   <img src="https://user-images.githubusercontent.com/74145874/175011972-5e9ca20f-8ae6-49b1-a4c1-915c7e72e1fd.png" width="100px" height="100px" alt="SQLite"/>
-</p>
-
- 
-
+ </p>
