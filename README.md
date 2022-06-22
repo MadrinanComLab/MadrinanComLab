@@ -27,9 +27,9 @@ Backend Frameworks that I use:
  Databases that I use:
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/74145874/175011593-9b6512f8-58e0-45e0-b0d3-e382a248dfdf.jpg" width="150px" height="150px" alt="MySQL"/>
-  <img src="https://user-images.githubusercontent.com/74145874/175011692-cb192c1c-2f85-42ec-9430-57e61cdb45bf.jpg" width="150px" height="150px" alt="SQLite"/>
- </p>
+  <img src="https://user-images.githubusercontent.com/74145874/175011980-24a45f00-c1a7-40c6-a5d6-d39912a08d71.png" width="150px" height="150px" alt="MySQL"/>
+  <img src="https://user-images.githubusercontent.com/74145874/175011972-5e9ca20f-8ae6-49b1-a4c1-915c7e72e1fd.png" width="150px" height="150px" alt="SQLite"/>
+</p>
 
  
 
