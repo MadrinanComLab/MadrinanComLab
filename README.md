@@ -16,7 +16,7 @@ Here are the technologies that I use:
   <img src="https://user-images.githubusercontent.com/74145874/175009331-7b9a4a89-536f-41d3-aab7-1a41f9d6c6b9.png" width="100px" height="100px" alt="PHP"/>
 </p>
 
-Backend Frameworks that I use:                  Databases that I use:
+Backend Frameworks that I use:..............Databases that I use:
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/74145874/175010858-5d4edd52-94c5-47ac-b4ef-855e510d1664.png" width="100px" height="100px" alt="Flask"/>
