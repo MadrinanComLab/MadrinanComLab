@@ -16,3 +16,10 @@ Here are the technologies that I use:
   <img src="https://user-images.githubusercontent.com/74145874/175009331-7b9a4a89-536f-41d3-aab7-1a41f9d6c6b9.png" width="150px" height="150px" alt="PHP"/>
 </p>
 
+Backend Frameworks that I use:
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/74145874/175009525-6c72c643-1442-43c1-b2dc-3d0edeefca4b.jpg" width="150px" height="150px" alt="Flask"/>
+  <img src="https://user-images.githubusercontent.com/74145874/175009740-4fbba538-e15d-4636-a20c-353094e31b71.png" width="150px" height="150px" alt="Express JS"/>
+  <img src="https://user-images.githubusercontent.com/74145874/175009878-65ae9b15-cf6f-4bc8-b6a2-79d538f0fcc0.jpg" width="150px" height="150px" alt="Laravel"/>
+ </p>
