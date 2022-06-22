@@ -6,5 +6,5 @@
 
 Here are the programming languages that I used:
 
-![HTML](https://user-images.githubusercontent.com/74145874/175006949-ce0258ac-7f95-4c91-868e-295d2c842245.png = 250x250)
-![CSS](https://user-images.githubusercontent.com/74145874/175007020-93e14c45-0770-4a22-a2e3-76dd0d7ac594.png = 250x250)
+![HTML](https://user-images.githubusercontent.com/74145874/175006949-ce0258ac-7f95-4c91-868e-295d2c842245.png =250x250)
+![CSS](https://user-images.githubusercontent.com/74145874/175007020-93e14c45-0770-4a22-a2e3-76dd0d7ac594.png =250x250)
