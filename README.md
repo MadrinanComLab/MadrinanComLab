@@ -11,7 +11,7 @@ Here are the technologies that I use:
   <img src="https://user-images.githubusercontent.com/74145874/175007020-93e14c45-0770-4a22-a2e3-76dd0d7ac594.png" width="100px" height="100px" alt="CSS"/>
   <img src="https://user-images.githubusercontent.com/74145874/175008529-08babfa3-ea29-459c-a7bd-ee1ae245c8ab.png" width="100px" height="100px" alt="JavaScript"/>
   <img src="https://user-images.githubusercontent.com/74145874/175008602-dd929953-4e72-424b-b991-a8e1916f3fd0.png" width="100px" height="100px" alt="C#"/>
-  <img src="https://user-images.githubusercontent.com/74145874/175008790-2412d67a-822a-4180-9481-4d28166e214d.jpg" width="100px" height="100px" alt="Java"/>
+  <img src="https://user-images.githubusercontent.com/74145874/175013698-677bf92e-2493-474a-9e02-a5da8b726b3c.png" width="100px" height="100px" alt="Java"/>
   <img src="https://user-images.githubusercontent.com/74145874/175009122-ef5ed60b-becd-4a21-9a56-916bf9ba2da5.png" width="100px" height="100px" alt="Python"/>
   <img src="https://user-images.githubusercontent.com/74145874/175009331-7b9a4a89-536f-41d3-aab7-1a41f9d6c6b9.png" width="100px" height="100px" alt="PHP"/>
   <img src="https://user-images.githubusercontent.com/74145874/175010858-5d4edd52-94c5-47ac-b4ef-855e510d1664.png" width="100px" height="100px" alt="Flask"/>
