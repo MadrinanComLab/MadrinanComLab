@@ -24,4 +24,12 @@ Backend Frameworks that I use:
   <img src="https://user-images.githubusercontent.com/74145874/175010397-a7ca0170-ca28-4dda-be61-9c8202c3e5e9.png" width="150px" height="150px" alt="Laravel"/>
  </p>
  
+ Databases that I use:
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/74145874/175011593-9b6512f8-58e0-45e0-b0d3-e382a248dfdf.jpg" width="150px" height="150px" alt="MySQL"/>
+  <img src="https://user-images.githubusercontent.com/74145874/175011692-cb192c1c-2f85-42ec-9430-57e61cdb45bf.jpg" width="150px" height="150px" alt="SQLite"/>
+ </p>
+
+ 
 
