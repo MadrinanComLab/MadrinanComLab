@@ -6,6 +6,5 @@
 
 Here are the programming languages that I used:
 
-![HTML]( =250x250)
-<img src="https://user-images.githubusercontent.com/74145874/175006949-ce0258ac-7f95-4c91-868e-295d2c842245.png" width="250px" height="250px"/>
-<img src="https://user-images.githubusercontent.com/74145874/175007020-93e14c45-0770-4a22-a2e3-76dd0d7ac594.png" width="250px" height="250px"/>
+<img src="https://user-images.githubusercontent.com/74145874/175006949-ce0258ac-7f95-4c91-868e-295d2c842245.png" width="250px" height="150px"/>
+<img src="https://user-images.githubusercontent.com/74145874/175007020-93e14c45-0770-4a22-a2e3-76dd0d7ac594.png" width="250px" height="150px"/>
