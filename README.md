@@ -19,4 +19,5 @@ Here are the technologies that I use:
   <img src="https://user-images.githubusercontent.com/74145874/175010397-a7ca0170-ca28-4dda-be61-9c8202c3e5e9.png" width="100px" height="100px" alt="Laravel"/>
   <img src="https://user-images.githubusercontent.com/74145874/175011980-24a45f00-c1a7-40c6-a5d6-d39912a08d71.png" width="100px" height="100px" alt="MySQL"/>
   <img src="https://user-images.githubusercontent.com/74145874/175011972-5e9ca20f-8ae6-49b1-a4c1-915c7e72e1fd.png" width="100px" height="100px" alt="SQLite"/>
+  <img src="https://user-images.githubusercontent.com/74145874/175014800-c34eef51-52f4-4219-b572-519357beb1ee.png" width="100px" height="100px" alt="Firebase"/>
 </p>
