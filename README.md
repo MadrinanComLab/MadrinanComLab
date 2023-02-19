@@ -11,6 +11,7 @@
 <p float="left">
   <img src="https://user-images.githubusercontent.com/74145874/175006949-ce0258ac-7f95-4c91-868e-295d2c842245.png" width="100px" height="100px" title="HTML"/>
   <img src="https://user-images.githubusercontent.com/74145874/175007020-93e14c45-0770-4a22-a2e3-76dd0d7ac594.png" width="100px" height="100px" title="CSS"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219932102-11c674b2-11ee-45a8-b4ba-8c7e91c70de5.png" width="100px" height="100px" title="LESS"/>
   <img src="https://user-images.githubusercontent.com/74145874/219881180-ff988eff-366c-4c60-af02-8b6f37384f19.png" width="100px" height="100px" title="SASS"/>
   <img src="https://user-images.githubusercontent.com/74145874/219881131-1e68fcb9-6927-4e86-a5bd-1eb3372b3a27.png" width="100px" height="100px" title="Bootstrap"/>
   <img src="https://user-images.githubusercontent.com/74145874/219881236-0fcf10d0-ec32-4db9-b32e-5c3539dcb53a.png" width="100px" height="100px" title="Bootstrap"/>
@@ -24,8 +25,11 @@
   <img src="https://user-images.githubusercontent.com/74145874/175010397-a7ca0170-ca28-4dda-be61-9c8202c3e5e9.png" width="100px" height="100px" title="Laravel"/>
   <img src="https://user-images.githubusercontent.com/74145874/175011980-24a45f00-c1a7-40c6-a5d6-d39912a08d71.png" width="100px" height="100px" title="MySQL"/>
   <img src="https://user-images.githubusercontent.com/74145874/175011972-5e9ca20f-8ae6-49b1-a4c1-915c7e72e1fd.png" width="100px" height="100px" title="SQLite"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219932178-0f4d5e74-1d3e-4e34-9c06-7ecdafb1310f.png" width="100px" height="100px" title="PostgreSQL"/>
   <img src="https://user-images.githubusercontent.com/74145874/175014800-c34eef51-52f4-4219-b572-519357beb1ee.png" width="100px" height="100px" title="Firebase"/>
   <img src="https://user-images.githubusercontent.com/74145874/219881058-6e33e3d4-d15d-4a76-9493-98ddcfccfa60.png" width="100px" height="100px" title="CodeIgniter"/>
   <img src="https://user-images.githubusercontent.com/74145874/219881011-ce0fe066-f205-4a65-a2b6-c99cd75f8cd6.png" width="100px" height="100px" title="Ruby on Rails"/>
   <img src="https://user-images.githubusercontent.com/74145874/219881093-1b00dffe-1376-4481-b804-271e3bc516e0.png" width="100px" height="100px" title="AJAX"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219932153-0c7d5852-a2a1-41e8-9845-3fb9afe737fd.png" width="100px" height="100px" title="JQuery"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219932239-64e7c1c0-afed-4c2d-a443-b5d1cb0f7ec4.png" width="100px" height="100px" title="Node JS"/>
 </p>
