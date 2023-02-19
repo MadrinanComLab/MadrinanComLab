@@ -48,7 +48,7 @@
   <a href="https://twitter.com/MadrinanComLab">
   <img src="https://user-images.githubusercontent.com/74145874/219954290-0afa8626-f2b5-44a9-8130-1ccce187ac06.png" width="100px" height="100px" title="Twitter"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/john-clifford-madri%C3%B1an-3b5ba222a/">
   <img src="https://user-images.githubusercontent.com/74145874/219954352-03919daf-97cf-4639-80a8-dab307ad1964.png" width="100px" height="100px" title="Linkedin"/>
   </a>
 </p>
