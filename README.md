@@ -32,4 +32,24 @@
   <img src="https://user-images.githubusercontent.com/74145874/219881093-1b00dffe-1376-4481-b804-271e3bc516e0.png" width="100px" height="100px" title="AJAX"/>
   <img src="https://user-images.githubusercontent.com/74145874/219932153-0c7d5852-a2a1-41e8-9845-3fb9afe737fd.png" width="100px" height="100px" title="JQuery"/>
   <img src="https://user-images.githubusercontent.com/74145874/219932239-64e7c1c0-afed-4c2d-a443-b5d1cb0f7ec4.png" width="100px" height="100px" title="Node JS"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219953190-d1617e29-9ca4-4c97-827e-0b0b468f10e6.png" width="100px" height="100px" title="Ruby"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219953269-ededafcb-195f-4bca-848f-6616a68ad7ed.png" width="100px" height="100px" title="Vue JS"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219953299-a3f03c42-3279-4cf6-b0de-27a071017724.png" width="100px" height="100px" title="React JS"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219953427-2bbb0c96-92fd-45fb-a4af-b52d8538321f.svg" width="100px" height="100px" title="Mocha"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219953568-b90963cf-b43c-4c6d-86c7-ffdae88dfade.png" width="100px" height="100px" title="Rspec"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219953679-d81f412a-4a9c-4c33-9495-b2ea8ad4481a.png" width="100px" height="100px" title="Capybara"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219953827-b218d591-bf2b-4b38-a3ef-890334b45a6e.png" width="100px" height="100px" title="Object Oriented Programming"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219953925-2c50dd69-8de7-4abd-bffd-10b1c097ff1c.png" width="100px" height="100px" title="Socket IO"/>
+  <img src="https://user-images.githubusercontent.com/74145874/219954047-9d695d23-e0ed-40a7-affa-38f22c5b7b7f.png" width="100px" height="100px" title="Docker"/>
 </p>
+
+## Contact me via:
+<p float="left">
+  <a href="https://twitter.com/MadrinanComLab">
+  <img src="https://user-images.githubusercontent.com/74145874/219954290-0afa8626-f2b5-44a9-8130-1ccce187ac06.png" width="100px" height="100px" title="Twitter"/>
+  </a>
+  <a href="#">
+  <img src="https://user-images.githubusercontent.com/74145874/219954352-03919daf-97cf-4639-80a8-dab307ad1964.png" width="100px" height="100px" title="Linkedin"/>
+  </a>
+</p>
+
